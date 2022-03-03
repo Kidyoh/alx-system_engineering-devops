@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r /tmp/my_first_directory[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /tmp/my_first_directory/
+rmdir /tmp/my_first_directory
