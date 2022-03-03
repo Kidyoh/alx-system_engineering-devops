@@ -1,3 +1,2 @@
 #!/bi/bash
-su betty
-
+su - betty
