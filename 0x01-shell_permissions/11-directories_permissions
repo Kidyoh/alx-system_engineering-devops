@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x */[D[D./*
+chmod -R ugo+x ./
